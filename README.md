@@ -7,7 +7,7 @@ In the folder prototyp_pathfinding there is an example implementation of genetic
 
 ##Resources:
 
-The basis for the implementation was the project of XXX.
+The basis for the implementation was the project of https://github.com/hobogalaxy/EvOLuTIoN.
 However, it was limited to Level2.
 
 ## src/
