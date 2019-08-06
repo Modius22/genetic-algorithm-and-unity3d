@@ -5,10 +5,9 @@ The necessary scripts for the implementation of genetic algorithms were selected
 
 In the folder prototyp_pathfinding there is an example implementation of genetic algorithms in the context of pathfinding.
 
-##Resources:
+## Resources:
 
-The basis for the implementation was the project of https://github.com/hobogalaxy/EvOLuTIoN.
-However, it was limited to Level2.
+The basis for the implementation of the pathfindig prototype was the project of https://github.com/hobogalaxy/EvOLuTIoN. But I only use Level 2 for the prototype.
 
 ## src/
 In the src folder you will find the following files:
