@@ -15,25 +15,6 @@ public class NaturalSelection : MonoBehaviour{
 
   }
 
-  // must refractor to controlGA
-  /*public void OwnSelection()
-  {
-    population.SetChampion();
-
-    population.CalculateFitness();
-    population.CalculateFitnessSum();
-
-    population.CopyBrain(population.Players[0], population.champion);    //Champion is always reborn in next generation unchanged
-
-    for (int i = 1; i < population.playerNum; i++)
-    {
-        GameObject parent = population.SelectParent();
-        population.CopyBrain(population.Players[i], parent);
-        population.Mutate(population.Players[i]);
-    }
-    
-  } */
-
   public void FitnessProportional(){
     for (int i = 0; i < population.playerNum; i++){
       population.Players[i].GetComponent<Player>().rating = population.Players[i].GetComponent<Player>().fitness;
