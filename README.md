@@ -46,4 +46,5 @@ The remaining files contain the relevant algorithms
 ## German Blog Post Serie
 
 [Grundlagen Genetische Algorithmen](https://www.modius-techblog.de/data-science/grundlagen-genetische-algorithmen/)
+
 [Genetische Algorithmen - Selektion](https://www.modius-techblog.de/data-science/genetische-algorithmen-selektion/)
