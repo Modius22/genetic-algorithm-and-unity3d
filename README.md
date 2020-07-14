@@ -48,3 +48,7 @@ The remaining files contain the relevant algorithms
 [Grundlagen Genetische Algorithmen](https://www.modius-techblog.de/data-science/grundlagen-genetische-algorithmen/)
 
 [Genetische Algorithmen - Selektion](https://www.modius-techblog.de/data-science/genetische-algorithmen-selektion/)
+
+[Rekombinationsverfahren bei Genetischen Algorithmen] (https://www.modius-techblog.de/data-science/rekombinationsverfahren-bei-genetischen-algorithmen/)
+
+[Ersetzungsverfahren in Kontext von Genetischen Algorithmen] (https://www.modius-techblog.de/data-science/ersetzungsverfahren-in-kontext-von-genetischen-algorithmen/)
